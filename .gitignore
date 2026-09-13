@@ -43,3 +43,9 @@ dist/
 
 # Local data/cache
 data/cache/
+
+# Frontend dependencies
+node_modules/
+
+# Frontend build output
+dist/
