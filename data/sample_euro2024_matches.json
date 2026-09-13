@@ -1,0 +1,50 @@
+[
+  {
+    "match_id": 3943043,
+    "match_date": "2024-07-14",
+    "stage": "Final",
+    "home_team": "Spain",
+    "away_team": "England",
+    "home_score": 2,
+    "away_score": 1,
+    "stadium": "Olympiastadion Berlin",
+    "referee": "François Letexier",
+    "competition": "UEFA Euro 2024"
+  },
+  {
+    "match_id": 3943041,
+    "match_date": "2024-07-09",
+    "stage": "Semi-Finals",
+    "home_team": "Spain",
+    "away_team": "France",
+    "home_score": 2,
+    "away_score": 1,
+    "stadium": "Allianz Arena Munich",
+    "referee": "Slavko Vinčić",
+    "competition": "UEFA Euro 2024"
+  },
+  {
+    "match_id": 3943042,
+    "match_date": "2024-07-10",
+    "stage": "Semi-Finals",
+    "home_team": "Netherlands",
+    "away_team": "England",
+    "home_score": 1,
+    "away_score": 2,
+    "stadium": "Signal Iduna Park Dortmund",
+    "referee": "Felix Zwayer",
+    "competition": "UEFA Euro 2024"
+  },
+  {
+    "match_id": 3943035,
+    "match_date": "2024-07-05",
+    "stage": "Quarter-Finals",
+    "home_team": "Spain",
+    "away_team": "Germany",
+    "home_score": 2,
+    "away_score": 1,
+    "stadium": "MHPArena Stuttgart",
+    "referee": "Anthony Taylor",
+    "competition": "UEFA Euro 2024"
+  }
+]
